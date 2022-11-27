@@ -1,0 +1,57 @@
+
+@media only screen and (max-width:1200px){
+    .bookList{
+        grid-template-columns: 1fr 1fr 1fr ;
+      }
+      .homeRight img{
+        height: 300px;
+      }
+}
+@media only screen and (max-width:990px){
+    .bookList{
+        grid-template-columns: 1fr 1fr  ;
+      }
+      .Home{
+        flex-direction: column-reverse;
+        text-align: center;
+      }
+      .About{
+        flex-direction: column-reverse;
+        text-align: center;
+        padding-top: 30px;
+      }
+      .aboutRight img{
+        height: 300px;
+      }
+      
+}
+@media only screen and (max-width:770px){
+    .bookList{
+        grid-template-columns: 1fr   ;
+      } 
+      .homeRight img{
+        height: 200px;
+      }
+      h1{
+        font-size: 22px;
+    }
+    h3{
+        font-size: 20px;
+    }
+}
+@media only screen and (max-width:500px){
+    h1{
+        font-size: 18px;
+    }
+    .adminBookList{
+        flex-direction: column;
+        text-align: center;
+      }
+      h2{
+        font-size: 18px;
+      }
+      .adminNav{
+        flex-direction: column;
+        text-align: center;
+      }
+}

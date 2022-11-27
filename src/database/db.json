@@ -1,0 +1,316 @@
+{
+  "book": [
+    {
+      "title": "The last Thing He Told Me",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/Tw8AAOSwLCFhxegg/s-l225.webp",
+      "price": "720",
+      "author": "DAVE LAURA",
+      "bookType": "BestSeller",
+      "id": 1
+    },
+    {
+      "title": "The Dictionary Of Lost Words",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/LagAAOSwJ15iG0Xr/s-l225.webp",
+      "price": "559",
+      "author": "PIP WILLIAMS",
+      "bookType": "BestSeller",
+      "id": 2
+    },
+    {
+      "title": "Diddly Squat",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/AXQAAOSwMdFhrPeW/s-l225.webp",
+      "price": "750",
+      "author": "JEREMY CLARKSON",
+      "bookType": "BestSeller",
+      "id": 3
+    },
+    {
+      "title": "Europe",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/ktEAAOSwaqxiT4kc/s-l225.webp",
+      "price": "900",
+      "author": "NORMAN DAVIES",
+      "bookType": "BestSeller",
+      "id": 4
+    },
+    {
+      "title": "Star Wars Phasma",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/AX4AAOSwPXhiDjgd/s-l225.webp",
+      "price": "825",
+      "author": "DELIAH S. DAWSON",
+      "bookType": "BestSeller",
+      "id": 5
+    },
+    {
+      "title": "Think And Grow Rich",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/EmsAAOSwAa1eX6Xj/s-l225.webp",
+      "price": "450",
+      "author": "NEPOLION HILL",
+      "bookType": "BestSeller",
+      "id": 6
+    },
+    {
+      "title": "The Lions Torment",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/0zAAAOSwqChgqZ3i/s-l225.webp",
+      "price": "450",
+      "author": "BLANCHE D,ALPUGET",
+      "bookType": "BestSeller",
+      "id": 7
+    },
+    {
+      "title": "My Garden World",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/oOkAAOSwIiRgltnS/s-l225.webp",
+      "price": "375",
+      "author": "MONTY DON",
+      "bookType": "BestSeller",
+      "id": 8
+    },
+    {
+      "title": "Harry Porter",
+      "imgUrl": "https://picsum.photos/200",
+      "price": "300",
+      "author": "J K Rowling",
+      "bookType": "Novel",
+      "id": 9
+    },
+    {
+      "title": "Cant Hurt Me",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/jFAAAOSwgn1jGIpq/s-l225.webp",
+      "price": "675",
+      "author": "DAVID GOGGINS",
+      "bookType": "Novel",
+      "id": 10
+    },
+    {
+      "title": "Trading in the zone",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/BjsAAOSw9qBi55zh/s-l225.webp",
+      "price": "677",
+      "author": "MARK DOUGLAS",
+      "bookType": "Novel",
+      "id": 11
+    },
+    {
+      "title": "Vintage The Davil's Rose",
+      "imgUrl": "https://img.freepik.com/premium-vector/devil-skull-with-roses_332261-74.jpg?w=2000",
+      "price": "1800",
+      "author": "BROM",
+      "bookType": "Novel",
+      "id": 12
+    },
+    {
+      "title": "The Book Of The New Son",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/YcEAAOSwq25jQK4p/s-l225.webp",
+      "price": "1200",
+      "author": "GENE WOLFE",
+      "bookType": "Novel",
+      "id": 13
+    },
+    {
+      "title": "The Deep Range",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/loYAAOSwPMVjKABe/s-l225.webp",
+      "price": "204",
+      "author": "C CLARKE",
+      "bookType": "Novel",
+      "id": 14
+    },
+    {
+      "title": "The Fifty Sorceress",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/mwYAAOSwp6tf~729/s-l225.webp",
+      "price": "375",
+      "author": "ROBERT",
+      "bookType": "Novel",
+      "id": 15
+    },
+    {
+      "title": "Desperation",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/mwYAAOSwp6tf~729/s-l225.webp",
+      "price": "2025",
+      "author": "STEPHEN KING",
+      "bookType": "Novel",
+      "id": 16
+    },
+    {
+      "title": "X-Man",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/NXMAAOSw-W5Uz-ji/s-l225.webp",
+      "price": "80",
+      "author": "26X",
+      "bookType": "Comic",
+      "id": 17
+    },
+    {
+      "title": "Picture Story From The Bible",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/6v8AAOSw1Exe64Gw/s-l225.webp",
+      "price": "1650",
+      "author": "RARE",
+      "bookType": "Comic",
+      "id": 18
+    },
+    {
+      "title": "Captain America",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/yMwAAOSwqbBhdd9A/s-l225.webp",
+      "price": "150",
+      "author": "MARVEL",
+      "bookType": "Comic",
+      "id": 19
+    },
+    {
+      "title": "Sandman Maste Of Dreams",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/J3cAAOSw9tFevDcb/s-l225.webp",
+      "price": "153",
+      "author": "GAIMAN THOMPSON",
+      "bookType": "Comic",
+      "id": 20
+    },
+    {
+      "title": "Batman",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/8l4AAOSwS3ljQYxU/s-l225.webp",
+      "price": "412",
+      "author": "VG JOKER",
+      "bookType": "Comic",
+      "id": 21
+    },
+    {
+      "title": "Amazing Spiderman",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/lZ4AAOSwItljQMOa/s-l225.webp",
+      "price": "225",
+      "author": "MARVEL COMIC",
+      "bookType": "Comic",
+      "id": 22
+    },
+    {
+      "title": "Azrail",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/J7EAAOSwbtNjQeHH/s-l225.webp",
+      "price": "79",
+      "author": "NM",
+      "bookType": "Comic",
+      "id": 23
+    },
+    {
+      "title": "The Courtship Of Miles",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/rx4AAOSw0DFfM1b0/s-l225.webp",
+      "price": "1050",
+      "author": "byron",
+      "bookType": "Literature",
+      "id": 24
+    },
+    {
+      "title": "Peter Pan",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/nnkAAOSwQCVi4xtX/s-l225.webp",
+      "price": "300",
+      "author": "may byron",
+      "bookType": "Literature",
+      "id": 25
+    },
+    {
+      "title": "Out Of The Jungle",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/NMEAAOSwnJxjQYdF/s-l225.webp",
+      "price": "785",
+      "author": "E.J. CRANE",
+      "bookType": "Literature",
+      "id": 26
+    },
+    {
+      "title": "Far Past The Frontier",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/7h8AAOSwKoljQTeh/s-l225.webp",
+      "price": "710",
+      "author": "V.H FRY",
+      "bookType": "Literature",
+      "id": 27
+    },
+    {
+      "title": "Big Mad On Campus",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/oXYAAOSw0xdge3T2/s-l225.webp",
+      "price": "300",
+      "author": "FELDSTIEN ALBERT",
+      "bookType": "Literature",
+      "id": 28
+    },
+    {
+      "title": "Uncle Remus",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/eCMAAOSwBgRirf3e/s-l225.webp",
+      "price": "2550",
+      "author": "HCDJ",
+      "bookType": "Literature",
+      "id": 29
+    },
+    {
+      "title": "Out Of Africa",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/0pAAAOSwAwtfcAbd/s-l225.webp",
+      "price": "675",
+      "author": "HC PETER",
+      "bookType": "Literature",
+      "id": 30
+    },
+    {
+      "title": "The Wonderer",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/WbgAAOSwxnFi3yFg/s-l225.webp",
+      "price": "375",
+      "author": "FRITZ LIEBER",
+      "bookType": "Literature",
+      "id": 31
+    },
+    {
+      "title": "Six Silent Man",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/wnAAAOSwpkFY7fxF/s-l225.webp",
+      "price": "225",
+      "author": "REYNEL MARTINEZ",
+      "bookType": "Biography",
+      "id": 32
+    },
+    {
+      "title": "Africa Krops",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/cYYAAOSwZlFiuRJb/s-l225.webp",
+      "price": "1500",
+      "author": "LAN BAXTER",
+      "bookType": "Biography",
+      "id": 33
+    },
+    {
+      "title": "Charles Chaplin",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/eUUAAOSwV15jQIzu/s-l225.webp",
+      "price": "1275",
+      "author": "CHARLES",
+      "bookType": "Biography",
+      "id": 34
+    },
+    {
+      "title": "Its A Long Way Of Penny Apples",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/8LIAAOSw5WpgAGRj/s-l225.webp",
+      "price": "375",
+      "author": "CULLEN BILL",
+      "bookType": "Biography",
+      "id": 35
+    },
+    {
+      "title": "The Dream Giver",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/c2AAAOSwio1f~qy~/s-l225.webp",
+      "price": "375",
+      "author": "BRUCE WIKINSON",
+      "bookType": "Biography",
+      "id": 36
+    },
+    {
+      "title": "Rush",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/nucAAOSwG7Bf~15g/s-l225.webp",
+      "price": "675",
+      "author": "COLIN JOD",
+      "bookType": "Biography",
+      "id": 37
+    },
+    {
+      "title": "Remarkable Time",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/9zIAAOSwiSRikETJ/s-l225.webp",
+      "price": "900",
+      "author": "LOURIE OAKES",
+      "bookType": "Biography",
+      "id": 38
+    },
+    {
+      "title": "The Memory Of Music",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/kjEAAOSwRVJfm~qI/s-l225.webp",
+      "price": "500",
+      "author": "MS OLIVE",
+      "bookType": "Biography",
+      "id": 39
+    }
+  ]
+}
